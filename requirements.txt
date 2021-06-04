@@ -1,0 +1,7 @@
+sweetviz
+pycaret
+shap
+mlflow
+fastapi
+uvicorn
+pyngrok
